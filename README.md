@@ -19,16 +19,6 @@ from dateutil.relativedelta import relativedelta
 ```
 
 
-```python
-import matplotlib
-matplotlib.__version__
-```
-
-
-
-
-    '3.0.3'
-
 
 
 # Reflect Tables into SQLAlchemy ORM
